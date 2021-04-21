@@ -5,12 +5,9 @@ image: /img/kingspan-stadium-1024x469.jpg
 heading: Rugby Ulster
 subheading: "#SUFTUM"
 mainpitch:
-  title: Why Kaldi
+  title: Not long now
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We are fastly approaching the start of the new season. A season which was to be greatly changed but somehow has manged to remain fairly similar due to some pandemicy things.
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
